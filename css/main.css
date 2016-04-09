@@ -85,7 +85,7 @@ padding: 22px 0 0;
 
 .top_addr strong {
 	display: block;
-	color: #d12f22;
+	color: #32A9A9;
 	text-transform: uppercase;
 	font-size: 32px;
 }
@@ -113,7 +113,7 @@ margin: auto;
 }
 header h1 {
 	color: #fff;
-	margin-top: 68px;
+	margin-top: 241px;
 	text-align: center;
 	font-size: 40px;
   text-shadow: 0 3px rgba(0,0,0,0.55);
@@ -122,19 +122,19 @@ header h1 {
 .button {
 	background-color: buttonface;
 	display: inline-block;
-	background-color: #d12f22;
+	background-color: #23595F;
 	height: 50px;
 	vertical-align: middle;
 	line-height: 	50px;
 	padding: 0 25px;
 	font-size: 20px;
-	border-bottom: #ac160a	3px solid;
+	border-bottom: #32A9A9	3px solid;
 	color: #fff;
 	font-family: "BebasBold";
 }
 
 .button:hover {
-	background-color: #e64437;
+	background-color: #1C3133;
 }
 
 .button:active {
@@ -260,7 +260,7 @@ h2.art_header {
 	color: #fff;
 }
 .main_cats h2 span {
-	color: #d12f22;
+	color: #32A9A9;
 }
 
 section h2,
@@ -479,8 +479,9 @@ p.h_descr {
 
 .hi_item img {
 	max-width: 100%;
-	border-top: #ac160a 8px solid;
-	border-bottom: #ac160a 8px solid;
+	color: #32A9A9;
+	color: #32A9A9;
+	border-top: #32A9A9 8px solid;
 }
 .hi_item {
 	color: #050505;
